@@ -1,0 +1,5 @@
+[20-Aug-2025 13:39:16 UTC] PHP Notice:  Undefined variable: font_family in /home3/gigabit/public_html/resources/views/backend/invoices/invoice.blade.php on line 14
+[20-Aug-2025 13:39:16 UTC] PHP Notice:  Undefined variable: direction in /home3/gigabit/public_html/resources/views/backend/invoices/invoice.blade.php on line 16
+[20-Aug-2025 13:39:16 UTC] PHP Notice:  Undefined variable: text_align in /home3/gigabit/public_html/resources/views/backend/invoices/invoice.blade.php on line 17
+[20-Aug-2025 13:39:16 UTC] PHP Notice:  Undefined variable: text_align in /home3/gigabit/public_html/resources/views/backend/invoices/invoice.blade.php on line 45
+[20-Aug-2025 13:39:16 UTC] PHP Notice:  Undefined variable: not_text_align in /home3/gigabit/public_html/resources/views/backend/invoices/invoice.blade.php on line 48

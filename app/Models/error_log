@@ -1,0 +1,16 @@
+[14-Aug-2025 13:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/Models/CouponUsage.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Models/CouponUsage.php on line 25
+[24-Aug-2025 22:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/Models/ProductStock.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Models/ProductStock.php on line 7
+[25-Aug-2025 20:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/Models/OrderDetail.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Models/OrderDetail.php on line 42
+[26-Aug-2025 01:23:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/Models/Review.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Models/Review.php on line 33

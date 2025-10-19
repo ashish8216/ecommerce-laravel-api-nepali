@@ -1,0 +1,28 @@
+[14-Aug-2025 05:48:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/PaymentController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/PaymentController.php on line 9
+[16-Aug-2025 13:40:25 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/PaytmController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/PaytmController.php on line 17
+[16-Aug-2025 17:54:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/CurrencyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/CurrencyController.php on line 8
+[12-Sep-2025 01:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/AffiliateController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/AffiliateController.php on line 28
+[19-Sep-2025 03:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/NgeniusController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/NgeniusController.php on line 12
+[23-Sep-2025 18:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/StripePaymentController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/StripePaymentController.php on line 14
+[25-Sep-2025 05:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/AizUploadController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/AizUploadController.php on line 12

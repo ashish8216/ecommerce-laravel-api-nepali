@@ -1,0 +1,56 @@
+[03-Aug-2025 03:52:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Category.php on line 8
+[04-Aug-2025 22:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/ClubPointDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/ClubPointDetail.php on line 7
+[15-Aug-2025 12:02:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/ClubPointDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/ClubPointDetail.php on line 7
+[23-Aug-2025 06:19:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/CustomerPackageTranslation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/CustomerPackageTranslation.php on line 7
+[06-Sep-2025 06:52:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/AffiliateWithdrawRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/AffiliateWithdrawRequest.php on line 7
+[06-Sep-2025 17:58:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/DeliveryHistory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/DeliveryHistory.php on line 7
+[08-Sep-2025 09:51:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/TicketReply.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/TicketReply.php on line 7
+[10-Sep-2025 15:28:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/ClubPoint.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/ClubPoint.php on line 7
+[22-Sep-2025 13:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/AffiliateStats.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/AffiliateStats.php on line 7
+[24-Sep-2025 06:40:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/FlashDeal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/FlashDeal.php on line 8
+[05-Oct-2025 12:00:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/HomeCategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/HomeCategory.php on line 7
+[16-Oct-2025 20:49:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/ClubPoint.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/ClubPoint.php on line 7
+[17-Oct-2025 17:54:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/CustomerPackageTranslation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/CustomerPackageTranslation.php on line 7
+[18-Oct-2025 23:12:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home3/gigabit/public_html/app/FlashDealProduct.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/FlashDealProduct.php on line 7

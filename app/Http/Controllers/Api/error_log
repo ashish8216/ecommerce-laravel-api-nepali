@@ -1,0 +1,12 @@
+[03-Aug-2025 22:17:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Api\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/Api/SliderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/Api/SliderController.php on line 7
+[18-Sep-2025 22:52:24 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Api\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/Api/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/Api/SettingsController.php on line 8
+[19-Sep-2025 15:08:28 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Api\Controller' not found in /home3/gigabit/public_html/app/Http/Controllers/Api/WishlistController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Controllers/Api/WishlistController.php on line 9

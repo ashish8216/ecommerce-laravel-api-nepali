@@ -1,0 +1,32 @@
+[09-Aug-2025 04:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/filesystems.php on line 16
+[11-Aug-2025 16:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/app.php on line 16
+[26-Aug-2025 03:08:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gigabit/public_html/config/pdf.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/pdf.php on line 11
+[16-Sep-2025 00:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/session.php on line 21
+[27-Sep-2025 00:54:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gigabit/public_html/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/excel.php on line 91
+[29-Sep-2025 13:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/hashing.php on line 32
+[08-Oct-2025 01:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/config/paystack.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/paystack.php on line 18
+[19-Oct-2025 01:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/config/database.php on line 16

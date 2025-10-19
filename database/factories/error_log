@@ -1,0 +1,15 @@
+[04-Aug-2025 22:58:34 UTC] PHP Notice:  Undefined variable: factory in /home3/gigabit/public_html/database/factories/UserFactory.php on line 17
+[04-Aug-2025 22:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home3/gigabit/public_html/database/factories/UserFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/database/factories/UserFactory.php on line 17
+[07-Aug-2025 23:21:21 UTC] PHP Notice:  Undefined variable: factory in /home3/gigabit/public_html/database/factories/UserFactory.php on line 17
+[07-Aug-2025 23:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home3/gigabit/public_html/database/factories/UserFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/database/factories/UserFactory.php on line 17
+[13-Aug-2025 23:18:00 UTC] PHP Notice:  Undefined variable: factory in /home3/gigabit/public_html/database/factories/UserFactory.php on line 17
+[13-Aug-2025 23:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home3/gigabit/public_html/database/factories/UserFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/database/factories/UserFactory.php on line 17

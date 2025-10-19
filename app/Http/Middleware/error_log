@@ -1,0 +1,8 @@
+[17-Aug-2025 22:55:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home3/gigabit/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[18-Aug-2025 05:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home3/gigabit/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gigabit/public_html/app/Http/Middleware/Authenticate.php on line 7
