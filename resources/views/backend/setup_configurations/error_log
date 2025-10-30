@@ -1,4 +1,0 @@
-[19-Aug-2025 21:21:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gigabit/public_html/resources/views/backend/setup_configurations/activation.blade.php:14
-Stack trace:
-#0 {main}
-  thrown in /home3/gigabit/public_html/resources/views/backend/setup_configurations/activation.blade.php on line 14

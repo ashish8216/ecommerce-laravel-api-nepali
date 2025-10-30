@@ -1,4 +1,0 @@
-[09-Sep-2025 10:02:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/gigabit/public_html/app/Providers/AppServiceProvider.php:8
-Stack trace:
-#0 {main}
-  thrown in /home3/gigabit/public_html/app/Providers/AppServiceProvider.php on line 8

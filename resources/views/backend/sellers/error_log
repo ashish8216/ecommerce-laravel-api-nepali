@@ -1,2 +1,0 @@
-[04-Sep-2025 22:26:08 UTC] PHP Notice:  Undefined variable: seller in /home3/gigabit/public_html/resources/views/backend/sellers/index.blade.php on line 70
-[04-Sep-2025 22:26:08 UTC] PHP Notice:  Trying to get property 'verification_status' of non-object in /home3/gigabit/public_html/resources/views/backend/sellers/index.blade.php on line 70
